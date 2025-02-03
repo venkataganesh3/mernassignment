@@ -1,0 +1,19 @@
+{
+  "name": "samplemernassignmentusingnpm",
+  "version": "2.2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkataganesh3/mernassignment.git"
+  },
+  "author": "ganesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkataganesh3/mernassignment/issues"
+  },
+  "homepage": "https://github.com/venkataganesh3/mernassignment#readme",
+  "description": "This is a simple npm package that adds two numbers."
+}
